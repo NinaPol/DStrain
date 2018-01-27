@@ -1,0 +1,8 @@
+---
+title: "ReadMe"
+author: "Nina Polyachek"
+date: "27 01 2018"
+output: html_document
+---
+
+It's a project 
